@@ -24,7 +24,4 @@
 - [] 睡觉
 - [x] 打豆豆
 
-<html>
-  <head>
-    <title>Test</title>
-  </head>
+At the command prompt, type `nano`.
