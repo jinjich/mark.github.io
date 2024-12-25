@@ -51,4 +51,4 @@ My favorite search engine is [baidu](https://www.baidu.com/).
 
 ---
 
-[百度](baidu.com"一个搜索引擎")
+[百度](baidu.com"百度")
