@@ -1,6 +1,6 @@
 #云云的学习笔记
 ![学习生活](https://camo.githubusercontent.com/a54d436119a079a4dfdc89d42a143fb0ba21b21ad574b3dccdb0ad2b0c444066/687474703a2f2f6875616e677875616e2e6d652f696d672f626c6f672d6465736b746f702e6a7067)
-[touxiang](https://raw.githubusercontent.com/jinjich/mark.github.io/kaiyuan.md)
+[touxiang](https://raw.githubusercontent.com/jinjich/mark.github.io/kaiyuan.markdown)
 ### 开源知识：探索软件世界的共享与创新之道
 
 在信息技术日新月异的今天，开源（Open Source）已经成为推动科技进步、促进软件创新的重要力量。它不仅仅是一种软件开发模式，更是一种文化、一种哲学，鼓励着全球范围内的开发者共享代码、知识和创意，共同构建更加开放、协作的数字世界。本文将深入探讨开源的基本概念、优势、挑战以及如何在开源社区中贡献自己的力量。
