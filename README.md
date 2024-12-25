@@ -53,6 +53,6 @@
 
 ![百度]（https://www.baidu.com/）
 
-![头像] (aa45eaac37d4097bb7b1ae1df0ee7d6a_t014bdbe756102e17f9.jpg )
+![头像] (https://jinjich.github.io/mark.github.io/aa45eaac37d4097bb7b1ae1df0ee7d6a_t014bdbe756102e17f9.jpg )
 
 < iframe src = “//player.bilibili.com/player.html？isOutside = true＆aid = 113672936559517＆bvid = BV1qikwYLEar＆cid = 27402243792＆p = 1”滚动=“无” Ø=“0”frameborder =“否”framespacing =“0”allowfullscreen =“真”> </内嵌框架>
