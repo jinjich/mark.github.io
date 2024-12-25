@@ -25,3 +25,8 @@
 - [x] 打豆豆
 
 At the command prompt, type `nano`.
+
+    <html>
+      <head>
+      </head>
+    </html>
