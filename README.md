@@ -34,3 +34,5 @@
 #### 五、结语
 
 开源不仅是技术层面的共享，更是人类智慧的结晶。它打破了传统软件开发的界限，促进了全球范围内的知识交流与合作。在这个充满无限可能的时代，无论是个人还是企业，都可以通过拥抱开源，参与到这场前所未有的技术革命中来，共同推动社会的进步与发展。让我们携手并进，在开源的广阔天地中，不断探索、学习、贡献，共创美好未来。
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=590147802&bvid=BV13q4y1U7JU&cid=397965825&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
