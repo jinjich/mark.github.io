@@ -26,6 +26,6 @@
 
 代码块:
 '''c
-int main(){
-return 0;
+int main() {
+    return 0;
 }
