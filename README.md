@@ -35,3 +35,9 @@ My favorite search engine is [baidu](https://www.baidu.com/).
 
 <https://markdown.p2hp.com>
 <fake@example.com>
+
+表格:
+|姓名|年龄|成绩|
+|:---|---:|:---:|
+|张三|19|99|
+|流亡三|20|333|
