@@ -32,3 +32,6 @@ At the command prompt, type `nano`.
     </html>
 
 My favorite search engine is [baidu](https://www.baidu.com/).
+
+<https://markdown.p2hp.com>
+<fake@example.com>
