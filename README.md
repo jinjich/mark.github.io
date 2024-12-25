@@ -53,6 +53,6 @@ My favorite search engine is [baidu](https://www.baidu.com/).
 
 [百度](https://www.baidu.com/)
 
-![百百](https://image.so.com/z?ch=pet&t1=234&src=banner_pet&gid=](https://image.so.com/z?ch=pet&t1=234&a=viewPage&ancestor=list&clw=247#grpid=e33f420c4a5ea84e97a52c74e0cfaa07&id=381a920abc90dcce7915792f30625d61&currsn=0)
+![百百](https://image.so.com/z?ch=pet&t1=234&a=viewPage&ancestor=list&clw=247#grpid=e33f420c4a5ea84e97a52c74e0cfaa07&id=381a920abc90dcce7915792f30625d61&currsn=0)
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113672936559517&bvid=BV1qikwYLEar&cid=27402243792&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
