@@ -51,4 +51,6 @@ My favorite search engine is [baidu](https://www.baidu.com/).
 
 ---
 
-[百度](https://www.baidu.com/"百度").
+[百度](https://www.baidu.com/"百度")
+
+[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")]
