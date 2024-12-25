@@ -41,3 +41,8 @@ My favorite search engine is [baidu](https://www.baidu.com/).
 |:---|---:|:---:|
 |张三|19|99|
 |流亡三|20|333|
+
+脚注:
+一键三连[^三连]
+
+[^三连]:点赞,收藏
