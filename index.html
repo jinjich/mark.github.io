@@ -3,33 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>个人信息记录</title>
+    <title>我的前端网站</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
-        <h1>个人信息记录</h1>
-        <form id="profileForm">
-            <label for="name">姓名:</label>
-            <input type="text" id="name" name="name" placeholder="请输入姓名">
-            
-            <label for="age">年龄:</label>
-            <input type="number" id="age" name="age" placeholder="请输入年龄">
-            
-            <label for="email">电子邮件:</label>
-            <input type="email" id="email" name="email" placeholder="请输入电子邮件">
-            
-            <button type="button" onclick="saveProfile()">保存</button>
-        </form>
-        
-        <div id="profileInfo" class="hidden">
-            <h2>已保存的信息</h2>
-            <p id="nameInfo"></p>
-            <p id="ageInfo"></p>
-            <p id="emailInfo"></p>
-            <button onclick="showForm()">编辑</button>
-        </div>
-    </div>
-    <script src="script.js"></script>
+    <header>
+        <h1>欢迎来到我的前端网站</h1>
+    </header>
+    <main>
+        <section id="images">
+            <h2>图片展示</h2>
+            <div class="image-container">
+                <img src="image1.jpg" alt="图片1">
+                <img src="image2.jpg" alt="图片2">
+                <img src="image3.jpg" alt="图片3">
+            </div>
+        </section>
+        <section id="videos">
+            <h2>视频精选</h2>
+            <div class="video-container">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </section>
+        <section id="articles">
+            <h2>文章链接</h2>
+            <ul>
+                <li><a href="https://example.com/article1" target="_blank">文章1标题</a></li>
+                <li><a href="https://example.com/article2" target="_blank">文章2标题</a></li>
+                <li><a href="https://example.com/article3" target="_blank">文章3标题</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 我的前端网站. 版权所有.</p>
+    </footer>
 </body>
 </html>
